@@ -1,0 +1,9 @@
+D:\vp\LABS\Lab-04\STDBMS\STDBMS\bin\Debug\STDBMS.exe.config
+D:\vp\LABS\Lab-04\STDBMS\STDBMS\bin\Debug\STDBMS.exe
+D:\vp\LABS\Lab-04\STDBMS\STDBMS\bin\Debug\STDBMS.pdb
+D:\vp\LABS\Lab-04\STDBMS\STDBMS\obj\Debug\STDBMS.csprojResolveAssemblyReference.cache
+D:\vp\LABS\Lab-04\STDBMS\STDBMS\obj\Debug\STDBMS.Form1.resources
+D:\vp\LABS\Lab-04\STDBMS\STDBMS\obj\Debug\STDBMS.Properties.Resources.resources
+D:\vp\LABS\Lab-04\STDBMS\STDBMS\obj\Debug\STDBMS.csproj.GenerateResource.Cache
+D:\vp\LABS\Lab-04\STDBMS\STDBMS\obj\Debug\STDBMS.exe
+D:\vp\LABS\Lab-04\STDBMS\STDBMS\obj\Debug\STDBMS.pdb
